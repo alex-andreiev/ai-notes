@@ -7,6 +7,9 @@ This repository stores AI lecture notes organized by locale.
 - `matt-pocock-ai-workflow/`
   - `matt-pocock-ai-workflow-ru.md` — Russian version of the Matt Pocock AI workflow notes
   - `matt-pocock-ai-workflow-en.md` — English version of the Matt Pocock AI workflow notes
+- `anthropic-vibe-coding-in-prod/`
+  - `anthropic-vibe-coding-in-prod-ru.md` — Russian version of the Anthropic vibe coding lecture notes
+  - `anthropic-vibe-coding-in-prod-en.md` — English version of the Anthropic vibe coding lecture notes
 
 ## How to use
 
