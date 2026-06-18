@@ -71,3 +71,6 @@ When managing agents, there are two approaches to giving instructions:
 Don't try to automate everything (idea, code, QA), or you will end up with faceless AI sludge (*slop*). Human control, taste, and manual QA are irreplaceable.
 
 The best instructions for managing modern AI agents are found in classic software engineering books written long before the age of artificial intelligence.
+
+## Links
+- https://www.youtube.com/watch?v=-QFHIoCo-Ko
